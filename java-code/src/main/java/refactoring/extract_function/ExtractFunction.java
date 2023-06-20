@@ -1,8 +1,8 @@
 package refactoring.extract_function;
 
 import lombok.extern.slf4j.Slf4j;
-import refactoring.Invoice;
-import refactoring.Order;
+import refactoring.model.Invoice;
+import refactoring.model.Order;
 
 @Slf4j
 public class ExtractFunction {

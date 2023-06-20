@@ -1,4 +1,4 @@
-package refactoring;
+package refactoring.model;
 
 import java.time.Instant;
 import java.util.List;
