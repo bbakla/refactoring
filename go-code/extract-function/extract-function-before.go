@@ -2,21 +2,10 @@ package extract_function
 
 import (
 	"fmt"
-	"time"
+	"gitlab.com/clean-code55/refactor/improving-design-of-existing-code/go-code/models"
 )
 
-type Invoice struct {
-	Orders   []Order
-	Customer string
-	DueDate  time.Time
-}
-
-type Order struct {
-	Name   string
-	Amount int
-}
-
-func printOwing(invoice Invoice) {
+func printOwing(invoice models.Invoice) {
 	fmt.Println("************************")
 	fmt.Println("***Customer Owes***")
 	fmt.Println("************************")
