@@ -9,7 +9,6 @@ import lombok.Setter;
 @Getter
 public class Station {
 
-
     private String name;
     private List<Reading> readings;
 
