@@ -1,6 +1,4 @@
-package refactoring.conditional_logic.replace_conditional_with_polymorphism.after;
-
-import lombok.AllArgsConstructor;
+package refactoring.conditional_logic.replace_conditional_with_polymorphism.example1.after;
 
 
 public class EuropeanSwallow extends Bird {

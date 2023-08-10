@@ -1,4 +1,4 @@
-package refactoring.conditional_logic.replace_conditional_with_polymorphism.before;
+package refactoring.conditional_logic.replace_conditional_with_polymorphism.example1.before;
 
 import java.util.HashMap;
 import java.util.List;

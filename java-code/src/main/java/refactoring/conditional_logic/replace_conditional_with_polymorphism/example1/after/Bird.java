@@ -1,4 +1,4 @@
-package refactoring.conditional_logic.replace_conditional_with_polymorphism.after;
+package refactoring.conditional_logic.replace_conditional_with_polymorphism.example1.after;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
