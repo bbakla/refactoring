@@ -5,6 +5,10 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/*
+We have only read clients so to create a specialcase object and to maintain it could be an
+overkill.
+ */
 @Getter
 @Setter
 @NoArgsConstructor

@@ -3,6 +3,9 @@ package refactoring.conditional_logic.special_case.read_and_write.after;
 import lombok.Getter;
 import lombok.Setter;
 //STEP 2: Create a class for unknown customers
+/*
+Since client 3 updates customer data, it is a better idea to create a class for special case
+ */
 @Getter
 @Setter
 public class UnknownCustomer extends Customer{
