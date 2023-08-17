@@ -17,6 +17,9 @@ public class Alarm {
       }
     }
 
+    /*
+      Command and query are implemented in the same code
+     */
     public String alertForMiscreant(List<String> people) {
       for (String p : people) {
         if ("Don".equals(p) || "John".equals(p)) {
