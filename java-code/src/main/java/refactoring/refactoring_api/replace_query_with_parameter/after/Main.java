@@ -6,7 +6,7 @@ import lombok.extern.slf4j.Slf4j;
 public class Main {
   public static void main(String[] args) {
     Thermostat thermostat = new Thermostat(10);
-    HeatingPlan thePlan = new HeatingPlan(20, 10, thermostat);
+    HeatingPlan thePlan = new HeatingPlan(20, 10);
 
     // STEP 3: Get the target temperature using the new method
     int targetTemperature = thePlan.targetTemperature(thermostat.getCurrentTemperature());
