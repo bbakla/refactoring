@@ -1,4 +1,4 @@
-package before
+package after
 
 import "fmt"
 
