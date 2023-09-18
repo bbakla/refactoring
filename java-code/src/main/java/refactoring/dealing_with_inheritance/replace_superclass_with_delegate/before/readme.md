@@ -1,0 +1,1 @@
+The relationship between the subclass and base class is very poor.
