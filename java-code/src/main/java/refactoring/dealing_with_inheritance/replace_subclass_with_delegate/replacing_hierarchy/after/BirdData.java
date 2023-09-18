@@ -1,12 +1,12 @@
 package refactoring.dealing_with_inheritance.replace_subclass_with_delegate.replacing_hierarchy.after;
 
-import lombok.Builder;
+
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
-@Builder
+
 public class BirdData {
   private String type;
   private int numberOfCoconuts;

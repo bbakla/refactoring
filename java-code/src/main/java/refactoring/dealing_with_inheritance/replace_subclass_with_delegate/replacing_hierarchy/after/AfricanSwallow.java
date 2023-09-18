@@ -1,3 +1,5 @@
+//10. We dont need the specific bird types anymore
+/*
 package refactoring.dealing_with_inheritance.replace_subclass_with_delegate.replacing_hierarchy.after;
 
 import lombok.Getter;
@@ -18,3 +20,4 @@ class AfricanSwallow extends Bird {
     return 40 * numberOfCoconuts;
   }
 }
+*/
