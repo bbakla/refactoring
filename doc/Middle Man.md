@@ -1,11 +1,9 @@
 # Middle Man
 
-Tags: code smell
-Inverse: 
-[Replace Subclass with Delegate](../Replace%20Subclass%20with%20Delegate/Replace%20Subclass%20with%20Delegate.md) 
-[Superclass with Delegate](../Replace%20Superclass%20with%20Delegate/Replace%20Superclass%20with%20Delegate.md)
-
-
+**Tags:** code smell
+**Inverse:** </br>
+[Replace Subclass with Delegate](../Replace%20Subclass%20with%20Delegate/Replace%20Subclass%20with%20Delegate.md)</br>
+[Superclass with Delegate](./Replace%20Superclass%20with%20Delegate/Replace%20Superclass%20with%20Delegate.md)</br>
 
 One of the prime features of objects is encapsulation—hiding internal details from the rest of the
 world. Encapsulation often comes with delegation. You ask a director whether she is free for a

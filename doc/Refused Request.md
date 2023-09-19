@@ -1,11 +1,13 @@
 # Refused Request
 
 **Tags:** code smell
-**Inverse:** 
-[Push Down Method](./Push%20Down%20Method/Push%20Down%20Method.md) 
-[Push down Field](./Push%20down%20Field/Push%20down%20Field.md) 
-[Replace Subclass with Delegate](./Replace%20Subclass%20with%20Delegate/Replace%20Subclass%20with%20Delegate.md) 
-[Replace Superclass with Delegate](./Replace%20Superclass%20with%20Delegate/Replace%20Superclass%20with%20Delegate.md)
+
+**Inverse:**</br>
+[Push Down Method](./Push%20Down%20Method/Push%20Down%20Method.md)</br>
+[Push down Field](./Push%20down%20Field/Push%20down%20Field.md) </br>
+[Replace Subclass with Delegate](./Replace%20Subclass%20with%20Delegate/Replace%20Subclass%20with%20Delegate.md)</br>
+[Replace Superclass with Delegate](./Replace%20Superclass%20with%20Delegate/Replace%20Superclass%20with%20Delegate.md)</br>
+
 
 Subclasses get to inherit the methods and data of their parents. But what if they don’t want or
 need what they are given? They are given all these great gifts and pick just a few to play with.
