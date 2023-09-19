@@ -1,6 +1,6 @@
 # Change Function Declaration (Rename Function)
 
-Tags: refactor
+Tags: basic
 
 ![](img.png)
 
@@ -17,3 +17,5 @@ function. If I have a function to format a person’s telephone number, and that
 person as its argument, then I can’t use it to format a company’s telephone number. If I replace
 the person parameter with the telephone number itself, then the formatting code is more widely 
 useful.
+
+# Code
