@@ -2,7 +2,7 @@
 
 Tags: dealing with inheritance
 
-![](img.png)
+![]![](img.png)
 
 # Motivation
 

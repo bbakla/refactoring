@@ -2,7 +2,7 @@
 
 Tags: encapsulation, refactor
 
-![Picture](img.png)
+![Picture]![](img.png)
 
 ### Motivation
 Use class or records to encapsulate the behavior.

@@ -3,7 +3,7 @@
 Tags: refactor
 Inverse: [Extract Variable](../Extract%20Variable/Extract%20Variable.md)
 
-![](img.png)
+![]![](img.png)
 
 # Motivation
 

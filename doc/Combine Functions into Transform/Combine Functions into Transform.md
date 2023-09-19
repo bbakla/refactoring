@@ -3,7 +3,7 @@
 Tags: refactor
 Related: Combine Functions into Class (Combine%20Functions%20into%20Class%20bc838c0e357a481b904e596cb0c868a1.md)
 
-![Picture](img.png)
+![Picture]![](img.png)
 # Motivation
 
 Software often involves feeding data into programs that calculate various derived information from it. These derived values may be needed in several places, and those calculations are often repeated wherever the derived data is used. I prefer to bring all of these derivations together, so I have a consistent place to find and update them and avoid any duplicate logic.

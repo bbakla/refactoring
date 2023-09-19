@@ -3,7 +3,7 @@
 Tags: refactor
 Inverse: Extract Function (../Extract%20Function/Extract%20Function.md)
 
-![](img.png)
+![]![](img.png)
 
 # Motivation
 
