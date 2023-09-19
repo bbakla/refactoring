@@ -2,7 +2,7 @@
 
 Tags: moving features, refactor
 
-[](Untitled.png)
+![](Untitled.png)
 
 # Motivation
 

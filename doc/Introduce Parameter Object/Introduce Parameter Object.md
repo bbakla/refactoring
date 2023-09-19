@@ -2,7 +2,7 @@
 
 Tags: basic
 
-[](img.png)
+![](img.png)
 
 # Motivation
 

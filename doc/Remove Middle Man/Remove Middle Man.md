@@ -3,7 +3,7 @@
 Tags: encapsulation, refactor
 Inverse: [Hide Delegate](../Hide%20Delegate/Hide%20Delegate.md)
 
-[](img.png)
+![](img.png)
 
 # Motivation
 

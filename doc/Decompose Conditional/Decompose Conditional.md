@@ -3,7 +3,7 @@
 Tags: conditional logic, refactor
 Related: Extract Function (Extract%20Function%20f20e8d100df7460e85563310e63c8312.md)
 
-![Picture](Untitled.png)
+(Untitled.png)
 
 # Motivation
 

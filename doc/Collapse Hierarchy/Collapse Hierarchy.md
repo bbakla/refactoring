@@ -2,7 +2,7 @@
 
 Tags: dealing with inheritance, refactor
 
-![Picture](Untitled.png)
+(Untitled.png)
 
 # Motivation
 

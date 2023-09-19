@@ -2,7 +2,7 @@
 
 Tags: encapsulation
 
-[Picture](img.png)
+![Picture](img.png)
 
 # Motivation
 

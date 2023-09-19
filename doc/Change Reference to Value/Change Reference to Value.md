@@ -3,7 +3,7 @@
 Tags: organizing data, refactor
 Inverse: Change Value to Reference 
 
-[Picture](img.png)
+(img.png)
 
 # Motivation
 

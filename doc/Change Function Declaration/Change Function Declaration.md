@@ -2,7 +2,7 @@
 
 Tags: refactor
 
-![Picture](img.png)
+(img.png)
 
 # Motivation
 

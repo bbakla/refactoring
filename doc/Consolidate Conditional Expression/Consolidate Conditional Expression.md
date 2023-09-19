@@ -2,7 +2,7 @@
 
 Tags: conditional logic, refactor
 
-![Picture](Untitled.png)
+(Untitled.png)
 
 # Motivation
 

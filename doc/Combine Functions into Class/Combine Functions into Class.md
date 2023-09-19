@@ -3,7 +3,7 @@
 Tags: refactor
 Related: Combine Functions into Transform (Combine%20Functions%20into%20Transform%204495a1f0e7ce4d40a21ade6e5f17563b.md)
 
-[Picture](img.png)
+![Picture](img.png)
 
 # Motivation
 

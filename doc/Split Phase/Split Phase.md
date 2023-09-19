@@ -2,7 +2,7 @@
 
 Tags: basic
 
-[](img.png)
+![](img.png)
 # Motivation
 
 **When I run into code that’s dealing with two different things, I look for a way to split it
