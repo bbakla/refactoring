@@ -1,3 +1,0 @@
-# Rename Variable
-
-Tags: refactor
