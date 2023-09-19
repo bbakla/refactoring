@@ -3,7 +3,7 @@
 Tags: encapsulation, refactor
 Inverse: [Remove Middle Man](../Remove%20Middle%20Man/Remove%20Middle%20Man.md)
 
-![]![](img.png)
+![](img.png)
 
 # Motivation
 

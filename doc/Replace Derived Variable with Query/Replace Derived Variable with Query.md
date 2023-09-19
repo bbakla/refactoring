@@ -1,7 +1,7 @@
 # Replace Derived Variable with Query
 
 Tags: organizing data
-![]![](img.png)
+![](img.png)
 
 # Motivation
 

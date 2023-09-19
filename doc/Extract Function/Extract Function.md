@@ -3,7 +3,7 @@
 Tags: basics
 Inverse: [Inline Function](../Inline%20Function/Inline%20Function.md)
 
-![Image]![](img.png)
+![Image](img.png)
 
 # Motivation
 

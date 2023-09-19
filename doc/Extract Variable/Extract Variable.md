@@ -3,7 +3,7 @@
 Tags: refactor
 Inverse: Inline Variable (../Inline%20Variable/Inline%20Variable.md)
 
-![Picture]![](img.png)
+![Picture](img.png)
 
 # Motivation
 

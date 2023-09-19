@@ -2,7 +2,7 @@
 
 Tags: organizing data, refactor
 
-![]![](img.png)
+![](img.png)
 
 # Motivation
 

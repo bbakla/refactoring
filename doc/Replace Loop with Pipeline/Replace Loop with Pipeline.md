@@ -2,4 +2,4 @@
 
 Tags: moving features
 
-![]![](img.png)
+![](img.png)

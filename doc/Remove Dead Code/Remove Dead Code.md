@@ -1,4 +1,4 @@
 # Remove Dead Code
 
 Tags: refactor
-![]![](img.png)
+![](img.png)

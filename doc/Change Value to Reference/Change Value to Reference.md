@@ -3,7 +3,7 @@
 Tags: organizing data, refactor
 Inverse: Change Reference to Value (Change%20Reference%20to%20Value%200547c0e787534920a414d53360094d55.md)
 
-![Picture]![](img.png)
+![Picture](img.png)
 
 # Motivation
 
